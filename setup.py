@@ -14,7 +14,7 @@ tests_require = [
     # Linting
     'isort==4.2.5',
     'flake8==3.0.3',
-    'flake8-blind-except==0.1.1',
+    'flake8-blind-except==0.2.0',
     'flake8-debugger==1.4.0',
 ]
 
